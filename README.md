@@ -52,8 +52,10 @@ Coming soon...
 * [JBShield: Defending Large Language Models from Jailbreak Attacks through Activated Concept Analysis and Manipulation](https://arxiv.org/abs/2502.07557), USENIX Security 2025
 * [Beyond Surface-Level Patterns: An Essence-Driven Defense Framework Against Jailbreak Attacks in LLMs](https://arxiv.org/abs/2502.19041), ACL Findings 2025
 * [CURVALID: Geometrically-Guided Adversarial Prompt Detection](https://arxiv.org/abs/2503.03502), arXiv 2025
+* [BingoGuard: LLM Content Moderation Tools with Risk Levels](https://arxiv.org/abs/2503.06550), ICLR 2025
 * [MirrorShield: Towards Universal Defense Against Jailbreaks via Entropy-Guided Mirror Crafting](https://arxiv.org/abs/2503.12931), arXiv 2025
 * [JailGuard: A Universal Detection Framework for Prompt-based Attacks on LLM Systems](https://dl.acm.org/doi/10.1145/3724393), TOSEM 2025
+* [PolyGuard: A Multilingual Safety Moderation Tool for 17 Languages](https://arxiv.org/abs/2504.04377), COLM 2025
 * [X-Guard: Multilingual Guard Agent for Content Moderation](https://arxiv.org/abs/2504.08848), arXiv 2025
 * [JailbreaksOverTime: Detecting Jailbreak Attacks Under Distribution Shift](https://arxiv.org/abs/2504.19440), arXiv 2025
 * [ReGA: Representation-Guided Abstraction for Model-based Safeguarding of LLMs](https://arxiv.org/abs/2506.01770), arXiv 2025
