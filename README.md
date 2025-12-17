@@ -9,7 +9,14 @@
 This repository is a list of research papers, articles, and resources related to jailbreak guardrails for Large Models (i.e., large language models (LLMs), multimodal large language models (MLLMs), and AI agents). Jailbreak guardrails are techniques and strategies designed to detect and filter unauthorized or harmful behavior in AI systems, ensuring they operate safely and ethically.
 
 ## Survey Papers
-Coming soon...
+* [Safeguarding Large Language Models: A Survey](https://arxiv.org/abs/2406.02622), Artificial Intelligence Review 2025
+* [Current state of LLM Risks and AI Guardrails](https://arxiv.org/abs/2406.12934), arXiv 2024
+* [JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models](https://arxiv.org/abs/2407.01599), arXiv 2024
+* [Jailbreak Attacks and Defenses Against Large Language Models: A Survey](https://arxiv.org/abs/2407.04295), arXiv 2024
+* [SoK: The Security-Safety Continuum of Multimodal Foundation Models through Information Flow and Global Game-Theoretic Analysis of Asymmetric Threats](https://arxiv.org/abs/2411.11195), arXiv 2024
+* [A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations](https://arxiv.org/abs/2502.14881), arXiv 2025
+* [SoK: Evaluating Jailbreak Guardrails for Large Language Models](https://arxiv.org/abs/2506.10597), IEEE S&P 2026
+* [From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem](https://arxiv.org/abs/2506.15170), arXiv 2025
 
 ## LLM's Jailbreak Guardrails
 * [A New Generation of Perspective API: Efficient Multilingual Character-level Transformers](https://arxiv.org/abs/2202.11176), KDD 2022
