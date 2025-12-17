@@ -88,3 +88,8 @@ Coming soon...
 
 ## Benchmarks/Datasets
 Coming soon...
+
+
+## Acknowledgement
+* [Awesome-LM-SSP](https://github.com/CryptoAILab/Awesome-LM-SSP)
+* [SoK4JailbreakGuardrails](https://github.com/xunguangwang/SoK4JailbreakGuardrails)
