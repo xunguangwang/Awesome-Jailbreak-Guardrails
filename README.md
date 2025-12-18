@@ -87,7 +87,7 @@ Coming soon...
 
 
 ## Benchmarks/Datasets
-Coming soon...
+* [GuardBench: A Large-Scale Benchmark for Guardrail Models](https://aclanthology.org/2024.emnlp-main.1022/), EMNLP 2024
 
 
 ## Acknowledgement
