@@ -56,6 +56,7 @@ This repository is a list of research papers, articles, and resources related to
 * [Refining Input Guardrails: Enhancing LLM-as-a-Judge Efficiency Through Chain-of-Thought Fine-Tuning and Alignment](https://arxiv.org/abs/2501.13080), arXiv 2025
 * [GuardReasoner: Towards Reasoning-based LLM Safeguards](https://arxiv.org/abs/2501.18492), arXiv 2025
 * [Constitutional Classifiers: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming](https://arxiv.org/abs/2501.18837), arXiv 2025
+* [DuoGuard: A Two-Player RL-Driven Framework for Multilingual LLM Guardrails](https://arxiv.org/abs/2502.05163), arXiv 2025
 * [JBShield: Defending Large Language Models from Jailbreak Attacks through Activated Concept Analysis and Manipulation](https://arxiv.org/abs/2502.07557), USENIX Security 2025
 * [Beyond Surface-Level Patterns: An Essence-Driven Defense Framework Against Jailbreak Attacks in LLMs](https://arxiv.org/abs/2502.19041), ACL Findings 2025
 * [CURVALID: Geometrically-Guided Adversarial Prompt Detection](https://arxiv.org/abs/2503.03502), arXiv 2025
@@ -74,6 +75,7 @@ This repository is a list of research papers, articles, and resources related to
 * [MetaDefense: Defending Finetuning-based Jailbreak Attack Before and During Generation](https://arxiv.org/abs/2510.07835), NeurIPS 2025
 * [Qwen3Guard Technical Report](https://arxiv.org/abs/2510.14276), arXiv 2025
 * [Sentra-Guard: A Multilingual Human-AI Framework for Real-Time Defense Against Adversarial LLM Jailbreaks](https://arxiv.org/abs/2510.22628), arXiv 2025
+* [gpt-oss-safeguard](https://huggingface.co/collections/openai/gpt-oss-safeguard), Hugging Face (29 Oct 2025)
 * [SGuard-v1: Safety Guardrail for Large Language Models](https://arxiv.org/abs/2511.12497), arXiv 2025
 * [ExplainableGuard: Interpretable Adversarial Defense for Large Language Models Using Chain-of-Thought Reasoning](https://arxiv.org/abs/2511.13771), arXiv 2025
 * [Immunity memory-based jailbreak detection: multi-agent adaptive guard for large language models](https://arxiv.org/abs/2512.03356), arXiv 2025
