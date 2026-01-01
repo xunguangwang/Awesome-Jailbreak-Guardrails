@@ -79,6 +79,7 @@ This repository is a list of research papers, articles, and resources related to
 * [SGuard-v1: Safety Guardrail for Large Language Models](https://arxiv.org/abs/2511.12497), arXiv 2025
 * [ExplainableGuard: Interpretable Adversarial Defense for Large Language Models Using Chain-of-Thought Reasoning](https://arxiv.org/abs/2511.13771), arXiv 2025
 * [Immunity memory-based jailbreak detection: multi-agent adaptive guard for large language models](https://arxiv.org/abs/2512.03356), arXiv 2025
+* [Efficient Jailbreak Mitigation Using Semantic Linear Classification in a Multi-Staged Pipeline](https://arxiv.org/abs/2512.19011), arXiv 2025
 
 ## MLLM's Jailbreak Guardrails
 Coming soon...
