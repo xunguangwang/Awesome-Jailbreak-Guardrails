@@ -82,7 +82,7 @@ This repository is a list of research papers, articles, and resources related to
 * [Efficient Jailbreak Mitigation Using Semantic Linear Classification in a Multi-Staged Pipeline](https://arxiv.org/abs/2512.19011), arXiv 2025
 
 ## MLLM's Jailbreak Guardrails
-Coming soon...
+* [LlavaGuard: An Open VLM-based Framework for Safeguarding Vision Datasets and Models](https://arxiv.org/abs/2406.05113), ICML 2025
 
 
 ## Agents' Jailbreak Guardrails
