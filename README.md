@@ -82,6 +82,7 @@ This repository is a list of research papers, articles, and resources related to
 
 ## MLLM's Jailbreak Guardrails
 * [LlavaGuard: An Open VLM-based Framework for Safeguarding Vision Datasets and Models](https://arxiv.org/abs/2406.05113), ICML 2025
+* [OMNIGUARD: An Efficient Approach for AI Safety Moderation Across Languages and Modalities](https://arxiv.org/abs/2505.23856), EMNLP 2025
 
 
 ## Agents' Jailbreak Guardrails
