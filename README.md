@@ -70,6 +70,7 @@ This repository is a list of research papers, articles, and resources related to
 * [Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors](https://arxiv.org/abs/2506.10949), arXiv 2025
 * [Lightweight Safety Guardrails via Synthetic Data and RL-guided Adversarial Training](https://arxiv.org/abs/2507.08284), arXiv 2025
 * [OneShield -- the Next Generation of LLM Guardrails](https://arxiv.org/abs/2507.21170), arXiv 2025
+* [Beyond Surface-Level Detection: Towards Cognitive-Driven Defense Against Jailbreak Attacks via Meta-Operations Reasoning](https://arxiv.org/abs/2508.03054), arXiv 2025
 * [LLM Jailbreak Detection for (Almost) Free!](https://arxiv.org/abs/2509.14558), arXiv 2025
 * [MetaDefense: Defending Finetuning-based Jailbreak Attack Before and During Generation](https://arxiv.org/abs/2510.07835), NeurIPS 2025
 * [Qwen3Guard Technical Report](https://arxiv.org/abs/2510.14276), arXiv 2025
