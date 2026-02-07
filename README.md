@@ -38,7 +38,6 @@ This repository is a list of research papers, articles, and resources related to
 * [A Causal Explainable Guardrails for Large Language Models](https://arxiv.org/abs/2405.04160), CCS 2024
 * [Defending Large Language Models Against Attacks With Residual Stream Activation Analysis](https://arxiv.org/abs/2406.03230), CAMLIS 2024
 * [SelfDefend: LLMs Can Defend Themselves against Jailbreaking in a Practical Manner](https://arxiv.org/abs/2406.05498), USENIX Security 2025
-* [GuardAgent: Safeguard LLM Agents by a Guard Agent via Knowledge-Enabled Reasoning](https://arxiv.org/abs/2406.09187), ICML 2025
 * [WildGuard: Open One-stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs](https://arxiv.org/abs/2406.18495), NeurIPS 2024
 * [R^2-Guard: Robust Reasoning Enabled LLM Guardrail via Knowledge-Enhanced Logical Reasoning](https://arxiv.org/abs/2407.05557), ICLR 2025
 * [Prompt-Guard-86M](https://huggingface.co/meta-llama/Prompt-Guard-86M), Hugging Face (22 July 2024)
@@ -87,7 +86,7 @@ This repository is a list of research papers, articles, and resources related to
 
 
 ## Agents' Jailbreak Guardrails
-Coming soon...
+* [GuardAgent: Safeguard LLM Agents by a Guard Agent via Knowledge-Enabled Reasoning](https://arxiv.org/abs/2406.09187), ICML 2025
 
 
 ## Benchmarks/Datasets
