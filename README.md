@@ -80,7 +80,9 @@ This repository is a list of research papers, articles, and resources related to
 * [Immunity memory-based jailbreak detection: multi-agent adaptive guard for large language models](https://arxiv.org/abs/2512.03356), arXiv 2025
 * [Efficient Jailbreak Mitigation Using Semantic Linear Classification in a Multi-Staged Pipeline](https://arxiv.org/abs/2512.19011), arXiv 2025
 * [YuFeng-XGuard: A Reasoning-Centric, Interpretable, and Flexible Guardrail Model for Large Language Models](https://arxiv.org/abs/2601.15588), arXiv 2026
+* [Defending LLMs against jailbreak attacks through representation offset detection](https://www.sciencedirect.com/science/article/abs/pii/S0306457326000543), Information Processing & Management 2026
 * [Efficient and Adaptable Detection of Malicious LLM Prompts via Bootstrap Aggregation](https://arxiv.org/abs/2602.08062), arXiv 2026
+* [Jailbreaking Leaves a Trace: Understanding and Detecting Jailbreak Attacks from Internal Representations of Large Language Models], arXiv 2026
 * [Hiding in Plain Text: Detecting Concealed Jailbreaks via Activation Disentanglement](https://arxiv.org/abs/2602.19396), arXiv 2026
 
 ## MLLM's Jailbreak Guardrails
