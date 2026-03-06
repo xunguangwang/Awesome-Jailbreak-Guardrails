@@ -85,6 +85,7 @@ This repository is a list of research papers, articles, and resources related to
 * [Jailbreaking Leaves a Trace: Understanding and Detecting Jailbreak Attacks from Internal Representations of Large Language Models](https://arxiv.org/abs/2602.11495), arXiv 2026
 * [Hiding in Plain Text: Detecting Concealed Jailbreaks via Activation Disentanglement](https://arxiv.org/abs/2602.19396), arXiv 2026
 * [CourtGuard: A Model-Agnostic Framework for Zero-Shot Policy Adaptation in LLM Safety](https://arxiv.org/abs/2602.22557), arXiv 2026
+* [Take off Your Disguise: Detecting Disguised Prompt-Based Jailbreak Attacks Against LLMs](https://ieeexplore.ieee.org/document/11415694), TCSS 2026
 
 ## MLLM's Jailbreak Guardrails
 * [LlavaGuard: An Open VLM-based Framework for Safeguarding Vision Datasets and Models](https://arxiv.org/abs/2406.05113), ICML 2025
