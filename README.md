@@ -77,7 +77,7 @@ This repository is a list of research papers, articles, and resources related to
 * [gpt-oss-safeguard](https://huggingface.co/collections/openai/gpt-oss-safeguard), Hugging Face (29 Oct 2025)
 * [SGuard-v1: Safety Guardrail for Large Language Models](https://arxiv.org/abs/2511.12497), arXiv 2025
 * [ExplainableGuard: Interpretable Adversarial Defense for Large Language Models Using Chain-of-Thought Reasoning](https://arxiv.org/abs/2511.13771), arXiv 2025
-* [Immunity memory-based jailbreak detection: multi-agent adaptive guard for large language models](https://arxiv.org/abs/2512.03356), arXiv 2025
+* [From static to adaptive: immune memory-based jailbreak detection for large language models](https://arxiv.org/abs/2512.03356), arXiv 2025
 * [Efficient Jailbreak Mitigation Using Semantic Linear Classification in a Multi-Staged Pipeline](https://arxiv.org/abs/2512.19011), arXiv 2025
 * [YuFeng-XGuard: A Reasoning-Centric, Interpretable, and Flexible Guardrail Model for Large Language Models](https://arxiv.org/abs/2601.15588), arXiv 2026
 * [Defending LLMs against jailbreak attacks through representation offset detection](https://www.sciencedirect.com/science/article/abs/pii/S0306457326000543), Information Processing & Management 2026
