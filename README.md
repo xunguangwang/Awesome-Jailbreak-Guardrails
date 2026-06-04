@@ -73,6 +73,7 @@ This repository is a list of research papers, articles, and resources related to
 * [LLM Jailbreak Detection for (Almost) Free!](https://arxiv.org/abs/2509.14558), arXiv 2025
 * [MetaDefense: Defending Finetuning-based Jailbreak Attack Before and During Generation](https://arxiv.org/abs/2510.07835), NeurIPS 2025
 * [Qwen3Guard Technical Report](https://arxiv.org/abs/2510.14276), arXiv 2025
+* [OpenGuardrails: A Configurable, Unified, and Scalable Guardrails Platform for Large Language Models], arXiv 2025
 * [Sentra-Guard: A Multilingual Human-AI Framework for Real-Time Defense Against Adversarial LLM Jailbreaks](https://arxiv.org/abs/2510.22628), arXiv 2025
 * [gpt-oss-safeguard](https://huggingface.co/collections/openai/gpt-oss-safeguard), Hugging Face (29 Oct 2025)
 * [SGuard-v1: Safety Guardrail for Large Language Models](https://arxiv.org/abs/2511.12497), arXiv 2025
