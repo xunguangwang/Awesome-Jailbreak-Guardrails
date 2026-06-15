@@ -98,6 +98,7 @@ This repository is a list of research papers, articles, and resources related to
 
 ## Agents' Jailbreak Guardrails
 * [GuardAgent: Safeguard LLM Agents by a Guard Agent via Knowledge-Enabled Reasoning](https://arxiv.org/abs/2406.09187), ICML 2025
+* [EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents](https://arxiv.org/abs/2605.30924), ICML 2026
 
 
 ## Benchmarks/Datasets
