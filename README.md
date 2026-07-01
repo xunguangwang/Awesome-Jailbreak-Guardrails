@@ -90,6 +90,7 @@ This repository is a list of research papers, articles, and resources related to
 * [SelfGrader: Stable Jailbreak Detection for Large Language Models using Token-Level Logits](https://arxiv.org/abs/2604.01473), arXiv 2026
 * [Revisiting JBShield: Breaking and Rebuilding Representation-Level Jailbreak Defenses](https://arxiv.org/abs/2605.03095), arXiv 2026
 * [Scalable Hierarchical Attention Transformers for Multi-Turn Jailbreak Detection in Long Conversations](https://arxiv.org/abs/2606.21082), arXiv 2026
+* [Do Safety Guardrails Need to Reason? LeanGuard: A Fast and Light Approach for Robust Moderation](https://arxiv.org/abs/2606.26686), arXiv 2026
 
 ## MLLM's Jailbreak Guardrails
 * [LlavaGuard: An Open VLM-based Framework for Safeguarding Vision Datasets and Models](https://arxiv.org/abs/2406.05113), ICML 2025
