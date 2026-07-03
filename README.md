@@ -18,7 +18,7 @@ This repository is a list of research papers, articles, and resources related to
 * [SoK: Evaluating Jailbreak Guardrails for Large Language Models](https://arxiv.org/abs/2506.10597), IEEE S&P 2026
 * [From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem](https://arxiv.org/abs/2506.15170), arXiv 2025
 
-## LLM's Jailbreak Guardrails
+## LLMs' Jailbreak Guardrails
 * [A New Generation of Perspective API: Efficient Multilingual Character-level Transformers](https://arxiv.org/abs/2202.11176), KDD 2022
 * [A Holistic Approach to Undesired Content Detection in the Real World](https://arxiv.org/abs/2208.03274), AAAI 2023
 * [LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked](https://arxiv.org/abs/2308.07308), arXiv 2023
@@ -92,11 +92,13 @@ This repository is a list of research papers, articles, and resources related to
 * [Scalable Hierarchical Attention Transformers for Multi-Turn Jailbreak Detection in Long Conversations](https://arxiv.org/abs/2606.21082), arXiv 2026
 * [Do Safety Guardrails Need to Reason? LeanGuard: A Fast and Light Approach for Robust Moderation](https://arxiv.org/abs/2606.26686), arXiv 2026
 
-## MLLM's Jailbreak Guardrails
-* [LlavaGuard: An Open VLM-based Framework for Safeguarding Vision Datasets and Models](https://arxiv.org/abs/2406.05113), ICML 2025
+## MLLMs' Jailbreak Guardrails
+* [Llama Guard 3 Vision: Safeguarding Human-AI Image Understanding Conversations](https://arxiv.org/abs/2411.10414), arXiv 2024
 * [OMNIGUARD: An Efficient Approach for AI Safety Moderation Across Languages and Modalities](https://arxiv.org/abs/2505.23856), EMNLP 2025
 * [Rethinking Jailbreak Detection of Large Vision Language Models with Representational Contrastive Scoring](https://arxiv.org/abs/2512.12069), arXiv 2025
 
+## T2IMs' Jailbreak Guardrails
+* [LlavaGuard: An Open VLM-based Framework for Safeguarding Vision Datasets and Models](https://arxiv.org/abs/2406.05113), ICML 2025
 
 ## Agents' Jailbreak Guardrails
 * [GuardAgent: Safeguard LLM Agents by a Guard Agent via Knowledge-Enabled Reasoning](https://arxiv.org/abs/2406.09187), ICML 2025
