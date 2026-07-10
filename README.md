@@ -95,6 +95,7 @@ This repository is a list of research papers, articles, and resources related to
 ## MLLMs' Jailbreak Guardrails
 * [Llama Guard 3 Vision: Safeguarding Human-AI Image Understanding Conversations](https://arxiv.org/abs/2411.10414), arXiv 2024
 * [OMNIGUARD: An Efficient Approach for AI Safety Moderation Across Languages and Modalities](https://arxiv.org/abs/2505.23856), EMNLP 2025
+* [Kelp: A Streaming Safeguard for Large Models via Latent Dynamics-Guided Risk Detection](https://export.arxiv.org/abs/2510.09694), arXiv 2025
 * [Rethinking Jailbreak Detection of Large Vision Language Models with Representational Contrastive Scoring](https://arxiv.org/abs/2512.12069), arXiv 2025
 
 ## T2IMs' Jailbreak Guardrails
