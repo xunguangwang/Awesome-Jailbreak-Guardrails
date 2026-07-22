@@ -97,6 +97,8 @@ This repository is a list of research papers, articles, and resources related to
 * [OMNIGUARD: An Efficient Approach for AI Safety Moderation Across Languages and Modalities](https://arxiv.org/abs/2505.23856), EMNLP 2025
 * [Kelp: A Streaming Safeguard for Large Models via Latent Dynamics-Guided Risk Detection](https://export.arxiv.org/abs/2510.09694), arXiv 2025
 * [Rethinking Jailbreak Detection of Large Vision Language Models with Representational Contrastive Scoring](https://arxiv.org/abs/2512.12069), arXiv 2025
+* [HomeGuard: VLM-based Embodied Safeguard for Identifying Contextual Risk in Household Task](https://arxiv.org/abs/2603.14367), ECCV 2026
+* [EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents](https://arxiv.org/abs/2605.30924), ICML 2026
 * [SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning](https://arxiv.org/abs/2606.22873), arXiv 2026
 
 ## T2IMs' Jailbreak Guardrails
@@ -105,8 +107,6 @@ This repository is a list of research papers, articles, and resources related to
 ## Agents' Jailbreak Guardrails
 * [GuardAgent: Safeguard LLM Agents by a Guard Agent via Knowledge-Enabled Reasoning](https://arxiv.org/abs/2406.09187), ICML 2025
 * [ToolSafe: Enhancing Tool Invocation Safety of LLM-based agents via Proactive Step-level Guardrail and Feedback](https://arxiv.org/abs/2601.10156), arXiv 2026
-* [HomeGuard: VLM-based Embodied Safeguard for Identifying Contextual Risk in Household Task](https://arxiv.org/abs/2603.14367), ECCV 2026
-* [EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents](https://arxiv.org/abs/2605.30924), ICML 2026
 * [BraveGuard: From Open-World Threats to Safer Computer-Use Agents](https://arxiv.org/abs/2606.01166), arXiv 2026
 * [SingGuard-NSFA: Extensible Guardrails for Agentic AI via Generative Reasoning and Real-Time Classification](https://arxiv.org/abs/2607.13081), arXiv 2026
 
