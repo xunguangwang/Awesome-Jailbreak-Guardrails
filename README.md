@@ -97,6 +97,7 @@ This repository is a list of research papers, articles, and resources related to
 * [OMNIGUARD: An Efficient Approach for AI Safety Moderation Across Languages and Modalities](https://arxiv.org/abs/2505.23856), EMNLP 2025
 * [Kelp: A Streaming Safeguard for Large Models via Latent Dynamics-Guided Risk Detection](https://export.arxiv.org/abs/2510.09694), arXiv 2025
 * [Rethinking Jailbreak Detection of Large Vision Language Models with Representational Contrastive Scoring](https://arxiv.org/abs/2512.12069), arXiv 2025
+* [SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning](https://arxiv.org/abs/2606.22873), arXiv 2026
 
 ## T2IMs' Jailbreak Guardrails
 * [LlavaGuard: An Open VLM-based Framework for Safeguarding Vision Datasets and Models](https://arxiv.org/abs/2406.05113), ICML 2025
