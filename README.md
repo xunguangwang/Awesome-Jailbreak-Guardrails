@@ -107,6 +107,7 @@ This repository is a list of research papers, articles, and resources related to
 * [HomeGuard: VLM-based Embodied Safeguard for Identifying Contextual Risk in Household Task](https://arxiv.org/abs/2603.14367), ECCV 2026
 * [EMBGuard: Constructing Hazard-Aware Guardrails for Safe Planning in Embodied Agents](https://arxiv.org/abs/2605.30924), ICML 2026
 * [BraveGuard: From Open-World Threats to Safer Computer-Use Agents](https://arxiv.org/abs/2606.01166), arXiv 2026
+* [SingGuard-NSFA: Extensible Guardrails for Agentic AI via Generative Reasoning and Real-Time Classification](https://arxiv.org/abs/2607.13081), arXiv 2026
 
 
 ## Benchmarks/Datasets
