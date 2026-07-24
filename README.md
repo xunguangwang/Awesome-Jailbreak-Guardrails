@@ -17,6 +17,7 @@ This repository is a list of research papers, articles, and resources related to
 * [A Survey of Safety on Large Vision-Language Models: Attacks, Defenses and Evaluations](https://arxiv.org/abs/2502.14881), arXiv 2025
 * [SoK: Evaluating Jailbreak Guardrails for Large Language Models](https://arxiv.org/abs/2506.10597), IEEE S&P 2026
 * [From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem](https://arxiv.org/abs/2506.15170), arXiv 2025
+* [Trust in LLM-controlled Robotics: a Survey of Security Threats, Defenses and Challenges](https://arxiv.org/abs/2601.02377), arXiv 2026
 
 ## LLMs' Jailbreak Guardrails
 * [A New Generation of Perspective API: Efficient Multilingual Character-level Transformers](https://arxiv.org/abs/2202.11176), KDD 2022
