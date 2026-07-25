@@ -117,6 +117,7 @@ This repository is a list of research papers, articles, and resources related to
 
 ## Benchmarks/Datasets
 * [GuardBench: A Large-Scale Benchmark for Guardrail Models](https://aclanthology.org/2024.emnlp-main.1022/), EMNLP 2024
+* [SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents](https://arxiv.org/abs/2412.13178), arXiv 2024
 
 
 ## Acknowledgement
