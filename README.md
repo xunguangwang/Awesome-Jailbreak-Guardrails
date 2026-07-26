@@ -120,6 +120,7 @@ This repository is a list of research papers, articles, and resources related to
 * [Multimodal Situational Safety](https://arxiv.org/abs/2410.06172), ICLR 2025
 * [SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents](https://arxiv.org/abs/2412.13178), arXiv 2024
 * [Towards Evaluating Proactive Risk Awareness of Multimodal Language Models](https://arxiv.org/abs/2505.17455), NeurIPS 2025
+* [AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions](https://arxiv.org/abs/2506.14697), arXiv 2025
 * [Benchmarking Open-Source Safety Guard Models: A Comprehensive Evaluation](https://arxiv.org/abs/2605.28830), arXiv 2026
 
 
