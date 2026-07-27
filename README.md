@@ -121,6 +121,7 @@ This repository is a list of research papers, articles, and resources related to
 * [SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents](https://arxiv.org/abs/2412.13178), arXiv 2024
 * [Towards Evaluating Proactive Risk Awareness of Multimodal Language Models](https://arxiv.org/abs/2505.17455), NeurIPS 2025
 * [AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions](https://arxiv.org/abs/2506.14697), arXiv 2025
+* [IS-Bench: Evaluating Interactive Safety of VLM-Driven Embodied Agents in Daily Household Tasks](https://arxiv.org/abs/2506.16402), AAAI 2026
 * [Benchmarking Open-Source Safety Guard Models: A Comprehensive Evaluation](https://arxiv.org/abs/2605.28830), arXiv 2026
 
 
