@@ -107,6 +107,9 @@ This repository is a list of research papers, articles, and resources related to
 * [SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning](https://arxiv.org/abs/2606.22873), arXiv 2026
 * [When Are Reasoning-Based Guardrails Not Efficient? ResponseGuard: A Fast Vision-Language Guard for Real-Time Moderation](https://arxiv.org/abs/2607.21401), arXiv 2026
 
+## VLAs' Jailbreak Guardrails
+* [Concept-Based Dictionary Learning for Inference-Time Safety in Vision Language Action Models](https://arxiv.org/abs/2602.01834), arXiv 2026
+
 ## T2IMs' Jailbreak Guardrails
 * [LlavaGuard: An Open VLM-based Framework for Safeguarding Vision Datasets and Models](https://arxiv.org/abs/2406.05113), ICML 2025
 
