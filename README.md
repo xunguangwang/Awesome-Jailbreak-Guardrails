@@ -90,6 +90,7 @@ This repository is a list of research papers, articles, and resources related to
 * [CourtGuard: A Model-Agnostic Framework for Zero-Shot Policy Adaptation in LLM Safety](https://arxiv.org/abs/2602.22557), arXiv 2026
 * [Take off Your Disguise: Detecting Disguised Prompt-Based Jailbreak Attacks Against LLMs](https://ieeexplore.ieee.org/document/11415694), TCSS 2026
 * [SelfGrader: Stable Jailbreak Detection for Large Language Models using Token-Level Logits](https://arxiv.org/abs/2604.01473), arXiv 2026
+* [SafeDream: Safety World Model for Proactive Early Jailbreak Detection](https://arxiv.org/abs/2604.16824), arXiv 2026
 * [Revisiting JBShield: Breaking and Rebuilding Representation-Level Jailbreak Defenses](https://arxiv.org/abs/2605.03095), arXiv 2026
 * [Scalable Hierarchical Attention Transformers for Multi-Turn Jailbreak Detection in Long Conversations](https://arxiv.org/abs/2606.21082), arXiv 2026
 * [Do Safety Guardrails Need to Reason? LeanGuard: A Fast and Light Approach for Robust Moderation](https://arxiv.org/abs/2606.26686), arXiv 2026
