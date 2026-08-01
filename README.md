@@ -126,6 +126,7 @@ This repository is a list of research papers, articles, and resources related to
 
 ## Benchmarks/Datasets
 * [MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?](https://arxiv.org/abs/2406.17806), ICLR 2025
+* [EARBench: Towards Evaluating Physical Risk Awareness for Task Planning of Foundation Model-based Embodied AI Agents](https://arxiv.org/abs/2408.04449), arXiv 2024
 * [GuardBench: A Large-Scale Benchmark for Guardrail Models](https://aclanthology.org/2024.emnlp-main.1022/), EMNLP 2024
 * [Multimodal Situational Safety](https://arxiv.org/abs/2410.06172), ICLR 2025
 * [SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents](https://arxiv.org/abs/2412.13178), arXiv 2024
