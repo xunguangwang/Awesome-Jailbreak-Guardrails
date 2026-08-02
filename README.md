@@ -111,6 +111,9 @@ This repository is a list of research papers, articles, and resources related to
 ## VLAs' Jailbreak Guardrails
 * [Concept-Based Dictionary Learning for Inference-Time Safety in Vision Language Action Models](https://arxiv.org/abs/2602.01834), arXiv 2026
 
+## WAMs' Jailbreak Guardrails
+* [JailWAM: Jailbreaking World Action Models in Robot Control](https://arxiv.org/abs/2604.05498), arXiv 2026 
+
 ## T2IMs' Jailbreak Guardrails
 * [LlavaGuard: An Open VLM-based Framework for Safeguarding Vision Datasets and Models](https://arxiv.org/abs/2406.05113), ICML 2025
 
