@@ -100,6 +100,7 @@ This repository is a list of research papers, articles, and resources related to
 ## MLLMs' Jailbreak Guardrails
 * [VLMGuard: Bootstrapping Malicious Prompt Detectors from Unlabeled Vision-Language Prompts in the Wild](https://arxiv.org/abs/2410.00296), TMLR 2026
 * [Llama Guard 3 Vision: Safeguarding Human-AI Image Understanding Conversations](https://arxiv.org/abs/2411.10414), arXiv 2024
+* [Safety Guardrails for LLM-Enabled Robots](https://arxiv.org/abs/2503.07885), RA-L 2026
 * [AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents](https://arxiv.org/abs/2503.18666), ICSE 2026
 * [GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning](https://arxiv.org/abs/2505.11049), NeurIPS 2025
 * [OMNIGUARD: An Efficient Approach for AI Safety Moderation Across Languages and Modalities](https://arxiv.org/abs/2505.23856), EMNLP 2025
