@@ -65,6 +65,7 @@ This repository is a list of research papers, articles, and resources related to
 * [JailGuard: A Universal Detection Framework for Prompt-based Attacks on LLM Systems](https://dl.acm.org/doi/10.1145/3724393), TOSEM 2025
 * [PolyGuard: A Multilingual Safety Moderation Tool for 17 Languages](https://arxiv.org/abs/2504.04377), COLM 2025
 * [X-Guard: Multilingual Guard Agent for Content Moderation](https://arxiv.org/abs/2504.08848), arXiv 2025
+* [Advancing Embodied Agent Security: From Safety Benchmarks to Input Moderation](https://arxiv.org/abs/2504.15699), IJCAI 2025
 * [JailbreaksOverTime: Detecting Jailbreak Attacks Under Distribution Shift](https://arxiv.org/abs/2504.19440), arXiv 2025
 * [ReGA: Representation-Guided Abstraction for Model-based Safeguarding of LLMs](https://arxiv.org/abs/2506.01770), arXiv 2025
 * [RSafe: Incentivizing proactive reasoning to build robust and adaptive LLM safeguards](https://arxiv.org/abs/2506.07736), NeurIPS 2025
