@@ -101,7 +101,7 @@ This repository is a list of research papers, articles, and resources related to
 * [Llama Guard 3 Vision: Safeguarding Human-AI Image Understanding Conversations](https://arxiv.org/abs/2411.10414), arXiv 2024
 * [AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents](https://arxiv.org/abs/2503.18666), ICSE 2026
 * [GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning](https://arxiv.org/abs/2505.11049), NeurIPS 2025
-* [OMNIGUARD: An Efficient Approach for AI Safety Moderation Across Languages and Modalities](https://arxiv.org/abs/2505.23856), EMNLP 2025
+* [MULTIGUARD: An Efficient Approach for AI Safety Moderation Across Languages and Modalities](https://arxiv.org/abs/2505.23856), EMNLP 2025
 * [Kelp: A Streaming Safeguard for Large Models via Latent Dynamics-Guided Risk Detection](https://export.arxiv.org/abs/2510.09694), arXiv 2025
 * [Rethinking Jailbreak Detection of Large Vision Language Models with Representational Contrastive Scoring](https://arxiv.org/abs/2512.12069), arXiv 2025
 * [Modular Safety Guardrails Are Necessary for Foundation-Model-Enabled Robots in the Real World](https://arxiv.org/abs/2602.04056), arXiv 2026
