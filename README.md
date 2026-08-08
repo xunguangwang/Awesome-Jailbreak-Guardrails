@@ -143,6 +143,7 @@ This repository is a list of research papers, articles, and resources related to
 * [AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions](https://arxiv.org/abs/2506.14697), arXiv 2025
 * [IS-Bench: Evaluating Interactive Safety of VLM-Driven Embodied Agents in Daily Household Tasks](https://arxiv.org/abs/2506.16402), AAAI 2026
 * [DUAL-Bench: Measuring Over-Refusal and Robustness in Vision-Language Models](https://arxiv.org/abs/2510.10846), arXiv 2025
+* [A Multi-Perspective Benchmark Dataset and Moderation Model for LLM Safety Evaluation with Adversarial Robustness Analysis](https://arxiv.org/abs/2601.03273), ACM Transactions on Social Computing 2026
 * [RoboJailBench: Benchmarking Adversarial Attacks and Defenses in Embodied Robotic Agents](https://arxiv.org/abs/2605.19328), arXiv 2026
 * [Benchmarking Open-Source Safety Guard Models: A Comprehensive Evaluation](https://arxiv.org/abs/2605.28830), arXiv 2026
 * [EgoSafetyBench: A Diagnostic Egocentric Video Benchmark for Evaluating Embodied VLMs as Runtime Safety Guards](https://arxiv.org/abs/2607.00218), arXiv 2026
