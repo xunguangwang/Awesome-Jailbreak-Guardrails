@@ -19,6 +19,7 @@ This repository is a list of research papers, articles, and resources related to
 * [From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem](https://arxiv.org/abs/2506.15170), arXiv 2025
 * [Trust in LLM-controlled Robotics: a Survey of Security Threats, Defenses and Challenges](https://arxiv.org/abs/2601.02377), arXiv 2026
 * [Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses](https://arxiv.org/abs/2605.02900), arXiv 2026
+* [SoK: Robustness in Large Language Models against Jailbreak Attacks](https://arxiv.org/abs/2605.05058), IEEE S&P 2026
 
 ## LLMs' Jailbreak Guardrails
 * [A New Generation of Perspective API: Efficient Multilingual Character-level Transformers](https://arxiv.org/abs/2202.11176), KDD 2022
