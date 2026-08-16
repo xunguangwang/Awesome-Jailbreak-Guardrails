@@ -5,8 +5,18 @@
   <img src="assets/logo.png" width="400"/>
 </p>
 
-## Introduction
 This repository is a list of research papers, articles, and resources related to jailbreak guardrails for Large Models (i.e., large language models (LLMs), multimodal large language models (MLLMs), and AI agents). Jailbreak guardrails are techniques and strategies designed to detect and filter unauthorized or harmful behavior in AI systems, ensuring they operate safely and ethically.
+
+## Contents
+- [Survey Papers](#survey-papers)
+- [LLMs' Jailbreak Guardrails](#llms-jailbreak-guardrails)
+- [MLLMs' Jailbreak Guardrails](#mllms-jailbreak-guardrails)
+- [VLAs' Jailbreak Guardrails](#vlas-jailbreak-guardrails)
+- [WAMs' Jailbreak Guardrails](#wams-jailbreak-guardrails)
+- [T2IMs' Jailbreak Guardrails](#t2ims-jailbreak-guardrails)
+- [Agents' Jailbreak Guardrails](#agents-jailbreak-guardrails)
+- [Benchmarks/Datasets](#benchmarksdatasets)
+- [Acknowledgement](#acknowledgement)
 
 ## Survey Papers
 * [Safeguarding Large Language Models: A Survey](https://arxiv.org/abs/2406.02622), Artificial Intelligence Review 2025
