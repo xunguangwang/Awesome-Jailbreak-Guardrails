@@ -97,6 +97,7 @@ This repository is a list of research papers, articles, and resources related to
 * [Scalable Hierarchical Attention Transformers for Multi-Turn Jailbreak Detection in Long Conversations](https://arxiv.org/abs/2606.21082), arXiv 2026
 * [Do Safety Guardrails Need to Reason? LeanGuard: A Fast and Light Approach for Robust Moderation](https://arxiv.org/abs/2606.26686), arXiv 2026
 * [DARWIN: Evolving Jailbreak Adversary and Guardrail for LLM Safety Evaluation and Protection](https://arxiv.org/abs/2607.19829), arXiv 2026
+* [ProbGuard: Calibrated Safety Risk Estimation from LLM Output Distributions](https://arxiv.org/abs/2608.10621), arXiv 2026
 
 ## MLLMs' Jailbreak Guardrails
 * [VLMGuard: Bootstrapping Malicious Prompt Detectors from Unlabeled Vision-Language Prompts in the Wild](https://arxiv.org/abs/2410.00296), TMLR 2026
