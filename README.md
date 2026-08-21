@@ -145,6 +145,7 @@ This repository is a list of research papers, articles, and resources related to
 * [BraveGuard: From Open-World Threats to Safer Computer-Use Agents](https://arxiv.org/abs/2606.01166), arXiv 2026
 * [AutoSpec: Safety Rule Evolution for LLM Agents via Inductive Logic Programming](https://arxiv.org/abs/2606.24245), arXiv 2026
 * [SingGuard-NSFA: Extensible Guardrails for Agentic AI via Generative Reasoning and Real-Time Classification](https://arxiv.org/abs/2607.13081), arXiv 2026
+* [DreamGuard: Efficient Runtime Guardrail for LLM Agents via Risk-Aware World Model](https://arxiv.org/abs/2608.05695), arXiv 2026
 
 
 ## Benchmarks/Datasets
