@@ -105,6 +105,7 @@ This repository is a list of research papers, articles, and resources related to
 * [SafeDream: Safety World Model for Proactive Early Jailbreak Detection](https://arxiv.org/abs/2604.16824), arXiv 2026
 * [Revisiting JBShield: Breaking and Rebuilding Representation-Level Jailbreak Defenses](https://arxiv.org/abs/2605.03095), arXiv 2026
 * [FinGuard: Detecting Financial Regulatory Non-Compliance in LLM Interactions](https://arxiv.org/abs/2605.29427), EMNLP 2026
+* [Exploring and Developing a Pre-Model Safeguard with Draft Models](https://dl.acm.org/doi/10.1145/3786335.3813133), CAIS 2026
 * [Scalable Hierarchical Attention Transformers for Multi-Turn Jailbreak Detection in Long Conversations](https://arxiv.org/abs/2606.21082), arXiv 2026
 * [Do Safety Guardrails Need to Reason? LeanGuard: A Fast and Light Approach for Robust Moderation](https://arxiv.org/abs/2606.26686), arXiv 2026
 * [DARWIN: Evolving Jailbreak Adversary and Guardrail for LLM Safety Evaluation and Protection](https://arxiv.org/abs/2607.19829), arXiv 2026
