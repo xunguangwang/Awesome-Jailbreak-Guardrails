@@ -111,6 +111,7 @@ This repository is a list of research papers, articles, and resources related to
 * [ProbGuard: Calibrated Safety Risk Estimation from LLM Output Distributions](https://arxiv.org/abs/2608.10621), arXiv 2026
 * [SingProbe Technical Report](https://arxiv.org/abs/2608.30703), arXiv 2026
 * [HE-Guardrail: A Homomorphic Guardrail Against Jailbreak Attacks for Encrypted Large Language Model Inference](https://arxiv.org/abs/2609.21484), arXiv 2026
+* [GuardrailAgent: An Agentic Framework for Jailbreak Defense](https://yangzhangalmo.github.io/papers/EMNLP26-GuardrailAgent.pdf), EMNLP Findings 2026
 
 ## MLLMs' Jailbreak Guardrails
 * [VLMGuard: Bootstrapping Malicious Prompt Detectors from Unlabeled Vision-Language Prompts in the Wild](https://arxiv.org/abs/2410.00296), TMLR 2026
