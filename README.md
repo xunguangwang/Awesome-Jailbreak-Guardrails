@@ -145,6 +145,7 @@ This repository is a list of research papers, articles, and resources related to
 * [ProbGuard: Probabilistic Runtime Monitoring for LLM Agent Safety](https://arxiv.org/abs/2508.00500), arXiv 2025
 * [ToolSafe: Enhancing Tool Invocation Safety of LLM-based agents via Proactive Step-level Guardrail and Feedback](https://arxiv.org/abs/2601.10156), arXiv 2026
 * [AgentDoG: A Diagnostic Guardrail Framework for AI Agent Safety and Security](https://arxiv.org/abs/2601.18491), arXiv 2026
+* [AgentGuard: An Attribute-Based Access Control Framework for Tool-Use LLM-Based Agent](https://arxiv.org/abs/2605.28071), arXiv 2026
 * [AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security](https://arxiv.org/abs/2605.29801), arXiv 2026
 * [BraveGuard: From Open-World Threats to Safer Computer-Use Agents](https://arxiv.org/abs/2606.01166), arXiv 2026
 * [AutoSpec: Safety Rule Evolution for LLM Agents via Inductive Logic Programming](https://arxiv.org/abs/2606.24245), arXiv 2026
